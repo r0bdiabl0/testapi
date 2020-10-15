@@ -1,0 +1,286 @@
+"{
+    "data": [
+        {
+            "board": "BRIGHT",
+            "sub_type": "Residential",
+            "class_name": "Residential",
+            "status": "ACTIVE",
+            "status_catagory": "A",
+            "mls_id": "MDBA527726",
+            "list_date": "2020-10-12 23:18:52",
+            "update_date": "2020-10-12 23:18:52",
+            "agent_fullname": "Antoine Johnson",
+            "agent_firstname": "",
+            "agent_lastname": "",
+            "agent_id": "63858",
+            "agent_phone": "4109958386",
+            "agent_phone2": "",
+            "agent_email": "info@powerhouserealtyllc.com",
+            "office_name": "Powerhouse Realty, LLC.",
+            "office_id": "PWHS1",
+            "office_city": "",
+            "fireplace": "",
+            "interior": "",
+            "total_beds": "3",
+            "total_baths": "1",
+            "interior_sqft": "",
+            "lot_sqft": "",
+            "lot_acre": "0.00",
+            "year_built": "1920",
+            "full_address": "635 E 30TH STREET",
+            "street_number": "635",
+            "street_name": "30TH",
+            "street_type": "STREET",
+            "street_direction": "E",
+            "unit_number": "",
+            "city": "BALTIMORE",
+            "state": "MD",
+            "county": "BALTIMORE CITY",
+            "zip": "21218",
+            "list_price": "24900.00",
+            "hoa": "",
+            "selling_price": "0.00",
+            "arch_style": "Federal",
+            "parking_spaces": "",
+            "public_remarks": "Three level town home with rear fenced concrete pad; close to shopping & major routes, 1 mile to John Hopkins University, minutes from area attractions such as The Maryland Zoo in Baltimore or Clifton Park & Golf Course.",
+            "photo_count": "38",
+            "area": "BALTIMORE CITY",
+            "latitude": "39.32401000",
+            "longitude": "-76.60751000",
+            "elem_school": "",
+            "mid_school": "",
+            "high_school": "",
+            "district_school": "",
+            "sale_rent": "S",
+            "prev_price": "",
+            "price_change_date": "",
+            "is_listhub": "0"
+        }
+    ],
+    "images": {
+        "1": "https://s3.amazonaws.com/east.rets.mobilityre.com/brights/MDBA527726/1.jpg",
+        "2": "https://s3.amazonaws.com/east.rets.mobilityre.com/brights/MDBA527726/2.jpg",
+        "3": "https://s3.amazonaws.com/east.rets.mobilityre.com/brights/MDBA527726/3.jpg",
+        "4": "https://s3.amazonaws.com/east.rets.mobilityre.com/brights/MDBA527726/4.jpg",
+        "5": "https://s3.amazonaws.com/east.rets.mobilityre.com/brights/MDBA527726/5.jpg",
+        "6": "https://s3.amazonaws.com/east.rets.mobilityre.com/brights/MDBA527726/6.jpg",
+        "7": "https://s3.amazonaws.com/east.rets.mobilityre.com/brights/MDBA527726/7.jpg",
+        "8": "https://s3.amazonaws.com/east.rets.mobilityre.com/brights/MDBA527726/8.jpg",
+        "9": "https://s3.amazonaws.com/east.rets.mobilityre.com/brights/MDBA527726/9.jpg",
+        "10": "https://s3.amazonaws.com/east.rets.mobilityre.com/brights/MDBA527726/10.jpg",
+        "11": "https://s3.amazonaws.com/east.rets.mobilityre.com/brights/MDBA527726/11.jpg",
+        "12": "https://s3.amazonaws.com/east.rets.mobilityre.com/brights/MDBA527726/12.jpg",
+        "13": "https://s3.amazonaws.com/east.rets.mobilityre.com/brights/MDBA527726/13.jpg",
+        "14": "https://s3.amazonaws.com/east.rets.mobilityre.com/brights/MDBA527726/14.jpg",
+        "15": "https://s3.amazonaws.com/east.rets.mobilityre.com/brights/MDBA527726/15.jpg",
+        "16": "https://s3.amazonaws.com/east.rets.mobilityre.com/brights/MDBA527726/16.jpg",
+        "17": "https://s3.amazonaws.com/east.rets.mobilityre.com/brights/MDBA527726/17.jpg",
+        "18": "https://s3.amazonaws.com/east.rets.mobilityre.com/brights/MDBA527726/18.jpg",
+        "19": "https://s3.amazonaws.com/east.rets.mobilityre.com/brights/MDBA527726/19.jpg",
+        "20": "https://s3.amazonaws.com/east.rets.mobilityre.com/brights/MDBA527726/20.jpg"
+    },
+    "suplimental_data": [
+        {
+            "property": {
+                "id": 115090,
+                "obPropId": 3160594524510,
+                "fips": 24510,
+                "apn": "4072A029",
+                "attomId": 31605945,
+                "location": {
+                    "lng": -76.60751,
+                    "lat": 39.32401
+                },
+                "profile": {
+                    "lot": {
+                        "depth": 74,
+                        "frontage": 13,
+                        "pooltype": "NONE",
+                        "lotNum": "29",
+                        "lotSize1": 0.0226,
+                        "lotSize2": 986,
+                        "zoningType": "Residential"
+                    },
+                    "area": {
+                        "blockNum": "4072A",
+                        "countyuse1": "R",
+                        "muncode": "BC",
+                        "munname": "BALTIMORE CITY",
+                        "srvySection": "04",
+                        "taxcodearea": "9",
+                        "countrySecSubd": "Baltimore city",
+                        "subdTractNum": "0",
+                        "censusTractIdent": "90400",
+                        "censusBlockGroup": "1"
+                    },
+                    "address": {
+                        "country": "US",
+                        "countrySubd": "MD",
+                        "line1": "635 E 30TH ST",
+                        "line2": "BALTIMORE, MD 21218",
+                        "locality": "Baltimore",
+                        "matchCode": "ExaStr",
+                        "oneLine": "635 E 30TH ST, BALTIMORE, MD 21218",
+                        "postal1": "21218",
+                        "postal2": "4229",
+                        "postal3": "C024"
+                    },
+                    "location": {
+                        "accuracy": "Street",
+                        "elevation": 0,
+                        "latitude": "39.324017",
+                        "longitude": "-76.607472",
+                        "distance": 0,
+                        "geoid": "CO24510, CS2490000, DB2400090, MT30000612, ND0000542968, ND0000547355, PL2404000, SB0000091546, SB0000091548, SB0000091550, SB0000091563, SB0000091566, SB0000091569, SB0000091600, SB0000091601, SB0000091617, SB0000091619, SB0000091620, SB0000091622, SB0000091623, ZI21218"
+                    },
+                    "summary": {
+                        "absenteeInd": "OWNER OCCUPIED",
+                        "propLandUse": "SFR",
+                        "propIndicator": 10,
+                        "legal1": "13-4X74-6",
+                        "propClass": "Single Family Residence / Townhouse",
+                        "propSubType": "HOUSE",
+                        "propType": "SFR",
+                        "yearBuilt": 1920,
+                        "dateOfLastQuitClaim": "3/18/2015 12:00:00 AM"
+                    },
+                    "utilities": {
+                        "coolingType": "TYPE UNKNOWN"
+                    },
+                    "building": {
+                        "size": {
+                            "sizeInd": "LIVING SQFT ",
+                            "bldgSize": 0,
+                            "grossSize": 0,
+                            "grossSizeAdjusted": 0,
+                            "groundFloorSize": 0,
+                            "livingSize": 0,
+                            "universalSize": 0,
+                            "atticSize": 0
+                        },
+                        "rooms": {
+                            "baths1qtr": 0,
+                            "baths3qtr": 0,
+                            "beds": 0,
+                            "roomsTotal": 0,
+                            "bathFixtures": 0,
+                            "bathsCalc": 0,
+                            "bathsFull": 0,
+                            "bathsHalf": 0,
+                            "bathsTotal": 0
+                        },
+                        "interior": {
+                            "bsmtSize": 0,
+                            "fplcCount": 0,
+                            "fplcInd": "Y",
+                            "fplcType": "YES"
+                        },
+                        "construction": {},
+                        "parking": {
+                            "prkgSize": 0,
+                            "prkgSpaces": "0",
+                            "prkgType": "COVERED CARPORT"
+                        },
+                        "summary": {
+                            "archStyle": "CONVENTIONAL",
+                            "bldgsNum": 1,
+                            "bldgType": "HOUSE",
+                            "imprType": "HOUSE",
+                            "levels": 0,
+                            "mobileHomeInd": " ",
+                            "storyDesc": "HOUSE",
+                            "unitsCount": 1,
+                            "yearbuilteffective": 0,
+                            "viewCode": ""
+                        }
+                    },
+                    "sale": {
+                        "sequenceSaleHistory": 0,
+                        "saleSearchDate": "2008-12-30",
+                        "saleTransDate": "2008-12-30",
+                        "saleAmountData": {
+                            "saleAmt": 51750,
+                            "saleRecDate": "2009-1-9",
+                            "saleDisclosureType": 0,
+                            "saleDocNum": "0112830285",
+                            "saleTransType": "Resale"
+                        }
+                    },
+                    "assessment": {
+                        "appraised": {
+                            "apprImprValue": 0,
+                            "apprLandValue": 0,
+                            "apprTtlValue": 0
+                        },
+                        "assessed": {
+                            "assdImprValue": 4000,
+                            "assdLandValue": 2000,
+                            "assdTtlValue": 6000
+                        },
+                        "market": {
+                            "mktImprValue": 4000,
+                            "mktLandValue": 2000,
+                            "mktTtlValue": 6000
+                        },
+                        "tax": {
+                            "taxAmt": 561,
+                            "taxPerSizeUnit": 0,
+                            "taxYear": 2020,
+                            "exemption": {
+                                "ExemptionAmount1": 4427,
+                                "ExemptionAmount2": 0,
+                                "ExemptionAmount3": 0,
+                                "ExemptionAmount4": 0,
+                                "ExemptionAmount5": 0
+                            }
+                        },
+                        "delinquentyear": 0,
+                        "improvementPercent": 66,
+                        "owner": {
+                            "owner1": {
+                                "lastName": "OWENS",
+                                "firstNameAndMi": "WILLIAM R"
+                            },
+                            "owner2": {
+                                "lastName": "OWENS",
+                                "firstNameAndMi": "CHRISTOPHER L"
+                            },
+                            "absenteeOwnerStatus": "O",
+                            "mailingAddressOneLine": "635 E 30TH ST, BALTIMORE, MD 21218-4229"
+                        },
+                        "mortgage": {
+                            "FirstConcurrent": {
+                                "amount": 51075,
+                                "lenderLastName": "AMERICAN FINANCIAL RESOURCES"
+                            },
+                            "SecondConcurrent": {
+                                "amount": 0
+                            },
+                            "ThirdConcurrent": {
+                                "amount": 0
+                            }
+                        }
+                    }
+                },
+                "lastModified": "2020-08-10T00:00:00.000Z",
+                "pubDate": "2020-08-12T00:00:00.000Z",
+                "fetchedSchoolsAt": null,
+                "fetchedPOIsAt": null,
+                "fetchedCommunityAt": null,
+                "fetchedPropertyDetailWithSchoolsAt": "2020-10-13T15:37:32.390Z",
+                "fetchedPropertyBasicProfileAt": null,
+                "fetchedCountyAt": null,
+                "fetchedPropertySaleSnapshotAt": null,
+                "listingId": "BRIGHT-MDBA527726",
+                "listingType": "LbListing",
+                "createdAt": "2020-10-13T15:37:31.000Z",
+                "updatedAt": "2020-10-13T15:37:32.000Z"
+            }
+        }
+    ],
+    "status": [
+        {
+            "status": "success"
+        }
+    ]
+}"
